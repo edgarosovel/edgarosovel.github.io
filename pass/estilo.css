@@ -1,0 +1,112 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+html,body{
+	width: 100%;
+	height: 100%;
+	background-color: #272822;
+}
+#cont{
+	width: 100%;
+	height: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+#main{
+	padding: 20px;
+	width: 300px;
+	text-align: center;
+	border: solid 1px #75715e;
+}
+h1{
+	color: #BFBFBF;
+	font-weight: lighter;
+	font-size: 18px;
+	font-family: "Consolas", sans-serif;
+}
+input{
+	color: #BFBFBF;
+	outline: none;
+	border: solid 1px #75715e;
+	background-color: #272822;
+	font-size: 13px;
+	font-family: "Arial", sans-serif;
+	width: 90%;
+	padding: 5px;
+	margin-bottom: 10px;
+}
+p{
+	font-size: 14px; 
+	color: #BFBFBF;
+	margin-top: 10px;
+	font-family: "menlo", sans-serif;
+} 
+
+/*------------------RESPONSIVE BRO-------------------*/
+
+@media only screen and (max-width: 1040px) {
+	#main{
+		padding: 6vw;
+		top: calc(50% - 18vh);
+		left: 6%;
+		width: calc(90% - 14vw);
+		text-align: center;
+		border: solid 1px #75715e;
+	}
+	h1{
+		font-size: 6vw;
+		font-family: "Consolas", sans-serif;
+	}
+	p{
+		font-size: 4vw; 
+		margin-top: 3vw;
+	}	 
+	input{
+		font-size: 4vw;
+		width: 90%;
+		padding: 2vw;
+		margin-bottom: 3vw;
+	}
+}
+
+/*@media only screen and (max-width: 680px) {
+    header{
+        height: auto;
+        text-align: center;
+    }
+    #logo{
+        float: none;
+        position: relative;
+        display: inline-block;
+        margin-left: 40px;
+        margin-right: 40px;
+    }
+    #buscar{
+        float: none;
+        position: relative;
+        display: inline-block;
+        margin-left: 40px;
+        margin-right: 40px;
+    }
+    #menu_general ul li{
+        width: 100%;
+        font-size: 18px;
+    }
+    #slider{
+        display: none;
+    }
+}
+@media only screen and (max-width: 440px) {
+    #buscar{
+        width: 220px;
+    }
+    .index_producto{
+        width: 100%;
+    }
+    .columna_footer{
+        width: 100%;
+    }
+}*/
