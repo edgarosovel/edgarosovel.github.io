@@ -1226,7 +1226,7 @@ img {
           font-size: 36px; } }
       @media only screen and (max-width: 767px) {
         .breadcrumb-area .breadcrumb-content h2 {
-          font-size: 24px; } }
+          font-size: 33px; } }
 
 .pagination {
   position: relative;
