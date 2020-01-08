@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/huckleberry/static/css/main.ee476be3.chunk.css",
+    "main.js": "/huckleberry/static/js/main.357000e2.chunk.js",
+    "main.js.map": "/huckleberry/static/js/main.357000e2.chunk.js.map",
+    "runtime-main.js": "/huckleberry/static/js/runtime-main.bff2ff98.js",
+    "runtime-main.js.map": "/huckleberry/static/js/runtime-main.bff2ff98.js.map",
+    "static/js/2.3bf7262a.chunk.js": "/huckleberry/static/js/2.3bf7262a.chunk.js",
+    "static/js/2.3bf7262a.chunk.js.map": "/huckleberry/static/js/2.3bf7262a.chunk.js.map",
+    "index.html": "/huckleberry/index.html",
+    "precache-manifest.8d4fac70af284717c0cbe98a50732e82.js": "/huckleberry/precache-manifest.8d4fac70af284717c0cbe98a50732e82.js",
+    "service-worker.js": "/huckleberry/service-worker.js",
+    "static/css/main.ee476be3.chunk.css.map": "/huckleberry/static/css/main.ee476be3.chunk.css.map",
+    "static/media/Circular.woff": "/huckleberry/static/media/Circular.c47d7e58.woff",
+    "static/media/Playfair_display.woff2": "/huckleberry/static/media/Playfair_display.b5204529.woff2",
+    "static/media/house.png": "/huckleberry/static/media/house.02d44fa8.png",
+    "static/media/user.jpg": "/huckleberry/static/media/user.a5821669.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bff2ff98.js",
+    "static/js/2.3bf7262a.chunk.js",
+    "static/css/main.ee476be3.chunk.css",
+    "static/js/main.357000e2.chunk.js"
+  ]
+}
