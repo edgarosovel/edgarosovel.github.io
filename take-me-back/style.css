@@ -1,0 +1,32 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+html,
+body {
+    width: 100%;
+    height: 100%;
+    background-color: #272822;
+}
+.cont {
+    width: 40%;
+}
+.cover {
+    width: 100%;
+}
+.custom-btn {
+    width: 50%;
+}
+.store-icon {
+    height: 40px;
+    max-width: 135px;
+    vertical-align: middle;
+}
+/*------------------RESPONSIVE BRO-------------------*/
+
+@media only screen and (max-width: 1040px) {
+    .cont {
+        width: 100%;
+    }
+}
