@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=ABeeZee&family=Bebas+Neue&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&family=Bebas+Neue&display=swap");
 @import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css");
 
 html,
@@ -9,7 +9,7 @@ body {
 
 body {
     overflow: hidden;
-    background-image: url("../images/bowcover.png");
+    background-image: url("../images/why.png");
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Do not repeat the image */
     background-size: cover; /* Resize the background image to cover the entire container */
@@ -17,12 +17,13 @@ body {
 
 h1 {
     font-family: "Bebas Neue", sans-serif;
-    font-size: 3.8rem;
+    font-size: 8rem;
 }
 
 .second-text {
-    font-family: "ABeeZee", sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-size: 1.3rem;
+    font-weight: bold;
 }
 
 .store-icon {
